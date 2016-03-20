@@ -1,6 +1,12 @@
 # Clean Thesis
 *-- A Clean LaTeX Style for Thesis Documents --*
 
+
+    Original Author: [Ricardo Langner](http://cleanthesis.der-ric.de) 
+    Added by:        Papeeria Team
+    Last update:     20 Mar 2015
+    Maintenance:     on demand
+    
 ## Readme:
 
 **Clean, Simple, Elegant**
